@@ -1,6 +1,6 @@
 # 👨‍💻 나의 모바일 포트폴리오 (mportpolio)
 
-[나의모바일 포트폴리오 웹 페이지 바로 가기](https://SeulJaeHyuk.github.io/mportpolio/) <br>
+[나의 모바일 포트폴리오 웹 페이지 바로 가기](https://SeulJaeHyuk.github.io/mportpolio/) <br>
 
 ## ✔️ 설명
 ㆍ2022-2 모바일앱개발 과제를 제출하기 위해 나의 포트폴리오 모바일 웹 사이트를 제작하였다. <br>
@@ -19,5 +19,4 @@
 
 
 ## 📱 레이아웃
-![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/blob/main/image/main.jpg) <br>
-![레이아웃](https://github.com/SeulJaeHyuk/csw-info-app/blob/main/image/main2.jpg)
+![레이아웃](https://github.com/SeulJaeHyuk/mportpolio/blob/main/img/readmeimg.png) 
