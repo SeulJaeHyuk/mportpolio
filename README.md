@@ -25,7 +25,7 @@
 ㆍWeb : HTML, CSS, Bootstrap, Spring의 숙련도를 표시하였다. <br>
 ㆍDatabase : 학교를 다니며 배운 Oracle DB와 현재 배우면서 사용 중인 Maria DB의 숙련도를 표시하였다. <br>
 ㆍPlatform : PC 운영체제 및 모바일 운영체제별로의 숙련도를 표시하였다. <br>
-![레이아웃]()
+![레이아웃](https://github.com/SeulJaeHyuk/mportpolio/blob/main/img/chart_readme.png)
 
 
 ## 📱 레이아웃
