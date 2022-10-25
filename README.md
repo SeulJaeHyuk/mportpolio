@@ -3,7 +3,6 @@
 [나의 모바일 포트폴리오 웹 페이지 바로 가기](https://SeulJaeHyuk.github.io/mportpolio/index.html) <br>
 
 ## ✔️ 설명
-ㆍ2022-2 모바일앱프로젝트 과제를 제출하기 위해 나의 포트폴리오 모바일 웹 사이트를 제작하였다. <br>
 ㆍ좌측 상단의 메뉴 버튼을 통해 메뉴가 나오게끔 하였으며, 메뉴를 통해 총 4개의 웹 페이지로 이동될 수 있도록 하였다. <br>
 ㆍ본 파일은 Visual Studio Code로 개발되었다. <br>
 ㆍ본 파일에는 HTML, CSS, JS(JavaScript)가 사용되었다. <br>
